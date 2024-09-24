@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<CSysPara xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dev>
+    <PlcIP>192.168.3.111</PlcIP>
+    <IdCom>COM1</IdCom>
+    <ChkSnCom>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </ChkSnCom>
+    <BarType>
+      <string>CR85</string>
+      <string>CR85</string>
+    </BarType>
+    <SnCom>
+      <string>COM7</string>
+      <string>COM8</string>
+    </SnCom>
+    <MonInterval>100</MonInterval>
+  </Dev>
+  <Para>
+    <IdReTimes>3</IdReTimes>
+    <ReadSnTimes>3</ReadSnTimes>
+  </Para>
+  <Alarm>
+    <StatTimes>0</StatTimes>
+    <StatFailTimes>0</StatFailTimes>
+    <StatPassRate>0</StatPassRate>
+    <FixtureTimes>0</FixtureTimes>
+    <FixFailTimes>0</FixFailTimes>
+    <FixPassRate>0</FixPassRate>
+  </Alarm>
+  <Report>
+    <ModelPath>D:\Model</ModelPath>
+    <SaveReport>false</SaveReport>
+    <SaveReportTimes>1</SaveReportTimes>
+    <ReportPath>D:\Report</ReportPath>
+  </Report>
+  <Mes>
+    <Connect>false</Connect>
+    <GJWeb>true</GJWeb>
+    <SnMode>无条码模式</SnMode>
+    <SnLen>0</SnLen>
+    <SnSpec />
+  </Mes>
+</CSysPara>

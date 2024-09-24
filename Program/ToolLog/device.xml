@@ -1,0 +1,21 @@
+﻿<Device Name="DebugTool">
+   <GJWeb Name="冠佳MES">0</GJWeb>
+   <IDCard Name="读卡器">0</IDCard> 
+   <ComPLC Name="PLC设备">1</ComPLC>
+   <FCMB Name="快充控制板">0</FCMB>
+   <LED Name="DA回馈负载">0</LED>
+   <GJMon32 Name="老化控制板">0</GJMon32>
+   <ELOAD Name="电子负载">0</ELOAD>
+   <DD Name="DD模块">1</DD>
+   <I2C Name="I2C控制板">0</I2C>
+   <ERS Name="ERS负载">0</ERS>
+   <BarCode Name="条码枪">0</BarCode>
+   <RemoteIO Name="远程IO板">0</RemoteIO>
+   <Meter Name="AC电表">0</Meter>
+   <AcbelIIC Name="康舒I2C控制板">0</AcbelIIC>
+   <MesACBEL Name="康舒MES上传">0</MesACBEL>
+   <GJ_CAN_485 Name="冠佳CAN_485模块">0</GJ_CAN_485>
+   <GJ_CC_CP Name="CC_CP控制板调试工具">0</GJ_CC_CP>
+   <WaterCold_Ctrl Name="久阳水冷控制">0</WaterCold_Ctrl>
+   <XianTong_Led Name="显通电子表头">1</XianTong_Led>
+</Device>
